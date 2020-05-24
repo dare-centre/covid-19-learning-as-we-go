@@ -14,13 +14,11 @@ of the models currently being used to predict deaths and medical resources neede
     ```
     sudo apt-get install python3
     sudo apt-get install python3-pip
-    sudo apt-get install postgresql-server-dev-all
     ```
     
     MacOS
     ```
     brew install python3
-    brew install postgresql
     ```
    
 2) Best practice is to use a virtual environment to ensure all packages are compatible with the specific version of the code:
